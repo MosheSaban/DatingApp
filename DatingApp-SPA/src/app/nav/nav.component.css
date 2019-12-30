@@ -1,0 +1,9 @@
+.navContainer{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.dropdown-toggle, .dropdown-item{
+    cursor: pointer;
+}
